@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pr24</string>
+    <string name="photo">Пхото</string>
+    <string name="video">Видео</string>
+</resources>
